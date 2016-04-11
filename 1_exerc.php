@@ -2,10 +2,10 @@
     <form>
         <br><br><br><br>
         Digite o primeiro numero: 
-        <input type="text" name="numero1">
+        <input type="number" name="numero1">
         <br><br>
         Digite o segundo numero: 
-        <input type="text" name="numero2">
+        <input type="number" name="numero2">
         <input type="submit" value="Enviar">
         <br>
 
